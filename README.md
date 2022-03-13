@@ -1,4 +1,4 @@
-# ANN_on_UCI_Dataset
+# ANN implementation on UCI Dataset
 An Artificial Neural Network was trained on the Breast Cancer Dataset of the UCI Machine Learning Repository. Comparisions of the error were made on using different activation functions.
 <br>The implementation is done from scratch and no external machine learning libraries were used. The neural network is trained using different activation functions such as 
 <ul>
